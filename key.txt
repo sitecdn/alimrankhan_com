@@ -1,3 +1,5 @@
 {
+    "admissionexpert.org": 1,
+    "www.admissionexpert.org": 1, 
     "studucation.com.pk": 1,
 }
